@@ -1,0 +1,8 @@
+@font-face {
+    font-family: miEstilo;
+    src: url("../fuentes/BLACK\ HIGHLIGHT.ttf");}
+
+h1{font-family: miEstilo; }
+@media screen {
+    
+}
